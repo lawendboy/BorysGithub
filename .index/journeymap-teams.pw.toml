@@ -1,0 +1,14 @@
+name = "JourneyMap Teams"
+filename = "JourneyMap-Teams-fabric-1.19.2-1.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/EV5wjtvP/versions/68688tyf/JourneyMap-Teams-fabric-1.19.2-1.0.2.jar"
+hash-format = "sha512"
+hash = "2d84e8510f019218c8ab8c5489ef01b1f77db9f0d305385b5b6cabb996ba46f1d2a7be0af9c3715879d6b3a8bf2cb0d4f86807314b7bcd5f649d3d25f90e77ec"
+
+[update]
+[update.modrinth]
+mod-id = "EV5wjtvP"
+version = "68688tyf"

@@ -1,0 +1,14 @@
+name = "megane"
+filename = "megane-8.6.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZNk5S5U6/versions/eUX8At6U/megane-8.6.0.jar"
+hash-format = "sha512"
+hash = "e726c1174591216c7f95120a9f368f0009ec03a24df775a98f8f2c220a17989f6dd647eb4f3813cdcb81036b42b9b3c190a9a996a10db5cdf9fa293e5e72f42e"
+
+[update]
+[update.modrinth]
+mod-id = "ZNk5S5U6"
+version = "eUX8At6U"

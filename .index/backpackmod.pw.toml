@@ -1,0 +1,14 @@
+name = "BackpackMod"
+filename = "backpackmod-1.19-4.0.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "38f58033025e9e0303eb8a2a5aa067ec76acccad"
+
+[update]
+[update.curseforge]
+file-id = 3898767
+project-id = 403764

@@ -1,0 +1,14 @@
+name = "Combat Roll"
+filename = "combatroll-fabric-1.1.5+1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/wGKYL7st/versions/gLzlXMlf/combatroll-fabric-1.1.5%2B1.19.jar"
+hash-format = "sha512"
+hash = "e196f10193b4587f705c377fb23942bbe609ed4ca27a926520c4a5fc6df09eacb45ac8d806b402f28048aa6f7b15254278cfeefbb87f5250fbad566890c0602f"
+
+[update]
+[update.modrinth]
+mod-id = "wGKYL7st"
+version = "gLzlXMlf"
