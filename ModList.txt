@@ -45,7 +45,7 @@ mcw-doors1
 megane1
 memoryleakfix1
 modern-industrialization1
-modern-key-bind1
+modern-key-binding1
 modernfix1
 modmenu1
 mousetweaks1
