@@ -6,7 +6,7 @@ backpackmod1
 badpackets1
 balm1
 bettervillage1
-borysmod2
+borysmod1
 botania1
 botarium1
 carryon1
