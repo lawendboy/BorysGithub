@@ -1,0 +1,17 @@
+aether
+applied_energetics
+aroma1997core
+botania
+buildcraft
+controlling
+coretweaks
+custom_main_menu
+draconic_evolution
+ender_core
+fast_craft
+mantle
+mekanism
+optifine
+thermal_dynamics
+waila
+waystones 
