@@ -1,0 +1,120 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "borys:textures/title.png",
+            "posX" : -137,
+            "posY" : 30,
+            "width" : 267,
+            "height" : 60,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "Samotnosc",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "BORYS",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "localhost:65535"
+            }
+        },
+        
+        "options":
+        {
+            "text" : "Ustrojki",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+
+        "quit":
+        {
+            "text" : "Mort",
+            "posX" : -100,
+            "posY" : 120,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -1540,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Boryscraft 11",
+            "posX" : -36,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_center"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 90,
+            "posY" : 70,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : "file:minecraft:texts/splashes.txt"
+        },
+        
+        "panorama":
+        {
+            "images" : "borys:textures/background/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 2,
+            "blur" : true,
+            "gradient" : true
+        }
+    }
+}
