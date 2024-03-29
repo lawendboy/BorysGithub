@@ -24,7 +24,6 @@ extrautilities.jar
 fastcraft.jar           
 foamfix.jar             
 forestry.jar            
-forgemultipart.jar      
 ftblib.jar              
 ftbutilities.jar        
 galacticraft.jar        
