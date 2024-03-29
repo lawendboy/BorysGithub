@@ -1,0 +1,8 @@
+config/CustomMainMenu/mainmenu.json
+resources/borys/textures/title.png
+resources/borys/textures/background/panorama_0.png
+resources/borys/textures/background/panorama_1.png
+resources/borys/textures/background/panorama_2.png
+resources/borys/textures/background/panorama_3.png
+resources/borys/textures/background/panorama_4.png
+resources/borys/textures/background/panorama_5.png
